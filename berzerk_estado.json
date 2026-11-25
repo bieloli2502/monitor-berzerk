@@ -700,8 +700,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-raijan",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/WhatsAppImage2026-10-05at13.47.51.jpg?v=1791219172"
     },
     "15471969992872": {
@@ -863,7 +863,7 @@
       "url": "https://berzerk.com.br/products/oversized-kyosenshi-preto",
       "preco": "52.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG, XG",
+      "tamanhos": "P, M, G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/arte_redimensionada_1576x2048_2.png?v=1793558159"
     },
     "15426044100776": {
@@ -1601,7 +1601,7 @@
       "url": "https://berzerk.com.br/products/oversized-chibi",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG, XG",
+      "tamanhos": "P, M, G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/ComamFrutasChibicostas.jpg?v=1787143156"
     },
     "9572457480360": {
