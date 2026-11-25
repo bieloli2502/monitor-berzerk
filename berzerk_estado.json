@@ -871,8 +871,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-exclusivo-preto",
       "preco": "52.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/arte_redimensionada_1576x2048_1.png?v=1793557991"
     },
     "9540098359464": {
@@ -1511,7 +1511,7 @@
       "url": "https://berzerk.com.br/products/oversized-archangel",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "GG",
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/ANJOC.png?v=1794424271"
     },
     "9437310386344": {
@@ -1547,7 +1547,7 @@
       "url": "https://berzerk.com.br/products/oversized-shinimagi",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "M, G, GG",
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/SKULL_C_V2.png?v=1788991603"
     },
     "9524620918952": {
