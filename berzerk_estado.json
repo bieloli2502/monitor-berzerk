@@ -176,8 +176,8 @@
       "categoria": "calça rux",
       "url": "https://berzerk.com.br/products/calca-rux-moonstone",
       "preco": "119.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1786666703525-n9e6bc.jpg?v=1786666668"
     },
     "9567090016424": {
@@ -376,8 +376,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-atlas",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/ATLAS_TRAS.png?v=1779208995"
     },
     "9270981689512": {
@@ -493,8 +493,8 @@
       "categoria": "calça rux",
       "url": "https://berzerk.com.br/products/calca-rux-moonstone",
       "preco": "119.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1786666703525-n9e6bc.jpg?v=1786666668"
     },
     "9567099060392": {
@@ -619,8 +619,8 @@
       "categoria": "Oversized - Kitty",
       "url": "https://berzerk.com.br/products/oversized-kuromi",
       "preco": "69.90",
-      "disponivel": true,
-      "tamanhos": "P",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/WhatsApp_Image_2026-05-12_at_17.49.50_176318cf-b2b3-42f5-9274-733fac9f9ff4.jpg?v=1778619071"
     },
     "15408235151528": {
@@ -701,7 +701,7 @@
       "url": "https://berzerk.com.br/products/oversized-raijan",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG, XG",
+      "tamanhos": "P, M, G, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/WhatsAppImage2026-10-05at13.47.51.jpg?v=1791219172"
     },
     "15471969992872": {
@@ -709,8 +709,8 @@
       "categoria": "Camiseta Egípcio Premium",
       "url": "https://berzerk.com.br/products/camiseta-egipcio-premium-verde",
       "preco": "79.90",
-      "disponivel": true,
-      "tamanhos": "P",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/verde.png?v=1793643418"
     },
     "15471968223400": {
@@ -899,7 +899,7 @@
       "url": "https://berzerk.com.br/products/oversized-gueixa",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "M, G, GG",
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/GueixaJP.jpg?v=1787140126"
     },
     "15426070544552": {
@@ -925,8 +925,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-1979",
       "preco": "69.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/old1.jpg_2.jpg?v=1793494366"
     },
     "15466783899816": {
@@ -1079,7 +1079,7 @@
       "url": "https://berzerk.com.br/products/oversized-lettering-off-white",
       "preco": "54.90",
       "disponivel": true,
-      "tamanhos": "G, GG",
+      "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/CAMISETA-OVERSIZED-BERZERK-OFFWHITE-NOVA_-_FRENTE_V2.png?v=1791554588"
     },
     "8546875080872": {
@@ -1087,8 +1087,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-olympia",
       "preco": "54.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/OLYMPIACOSTAS.jpg?v=1765049164"
     },
     "9540025221288": {
@@ -1150,8 +1150,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-symbol-off-white",
       "preco": "49.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/OFFSYMBOLF.png?v=1792669771"
     },
     "9635788095656": {
@@ -1231,8 +1231,8 @@
       "categoria": "Poliamida Tech",
       "url": "https://berzerk.com.br/products/camiseta-dryfit-poliamida-tech-running-verde-symbol",
       "preco": "49.90",
-      "disponivel": true,
-      "tamanhos": "G",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/CAMISETA-DRYFIT-POLIAMIDA-BERZERK-ALPHACO-VERDE.png?v=1790258745"
     },
     "10309285740712": {
@@ -1285,8 +1285,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-cheat-death",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1789135123587-maot3q_1.jpg?v=1790792693"
     },
     "9495057858728": {
@@ -1304,7 +1304,7 @@
       "url": "https://berzerk.com.br/products/oversized-darc",
       "preco": "54.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG",
+      "tamanhos": "M, G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/DARC2.jpg?v=1772109550"
     },
     "9457265737896": {
@@ -1601,7 +1601,7 @@
       "url": "https://berzerk.com.br/products/oversized-chibi",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG",
+      "tamanhos": "M, G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/ComamFrutasChibicostas.jpg?v=1787143156"
     },
     "9572457480360": {
