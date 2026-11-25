@@ -638,7 +638,7 @@
       "url": "https://berzerk.com.br/products/oversizezd-ppg-him",
       "preco": "69.90",
       "disponivel": true,
-      "tamanhos": "P, M, GG, XG",
+      "tamanhos": "P, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/HIM1_jpg.jpg?v=1793838737"
     },
     "15439436349608": {
@@ -1276,8 +1276,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-pizzanova",
       "preco": "54.90",
-      "disponivel": true,
-      "tamanhos": "M",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/T-shirtpretoBULKINGSEASON.png?v=1791394509"
     },
     "9615436644520": {
