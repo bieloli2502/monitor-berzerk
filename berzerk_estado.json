@@ -619,8 +619,8 @@
       "categoria": "Oversized - Kitty",
       "url": "https://berzerk.com.br/products/oversized-kuromi",
       "preco": "69.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/WhatsApp_Image_2026-05-12_at_17.49.50_176318cf-b2b3-42f5-9274-733fac9f9ff4.jpg?v=1778619071"
     },
     "15408235151528": {
@@ -1015,8 +1015,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/short-dry-fit-2-em-1-compressao-preto-logo-1",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/8e40754a-bad6-479f-bdf3-0361ec64defd_21c25e6f-341a-44ff-b604-5ec208cd8023.jpg?v=1793491051"
     },
     "9572470751400": {
@@ -1538,7 +1538,7 @@
       "url": "https://berzerk.com.br/products/oversized-rage",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "M",
+      "tamanhos": "M, G",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/BESTIALC_75f66310-28aa-4dff-b3c2-4d55ed2d1860.png?v=1788980259"
     },
     "9533027680424": {
