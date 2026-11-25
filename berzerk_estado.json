@@ -565,8 +565,8 @@
       "categoria": "Oversized - Kitty 03",
       "url": "https://berzerk.com.br/products/oversized-hk-goth-kitty",
       "preco": "69.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/hk_novovoovovo.png?v=1794418619"
     },
     "15442072109224": {
@@ -574,8 +574,8 @@
       "categoria": "Oversized - Kitty 03",
       "url": "https://berzerk.com.br/products/oversized-hk-little-kuromi",
       "preco": "69.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/kjurodsn.png?v=1794877476"
     },
     "15439533310120": {
@@ -619,8 +619,8 @@
       "categoria": "Oversized - Kitty",
       "url": "https://berzerk.com.br/products/oversized-kuromi",
       "preco": "69.90",
-      "disponivel": true,
-      "tamanhos": "P",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/WhatsApp_Image_2026-05-12_at_17.49.50_176318cf-b2b3-42f5-9274-733fac9f9ff4.jpg?v=1778619071"
     },
     "15408235151528": {
