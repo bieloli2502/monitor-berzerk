@@ -1087,8 +1087,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-olympia",
       "preco": "54.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/OLYMPIACOSTAS.jpg?v=1765049164"
     },
     "9540025221288": {
@@ -1438,8 +1438,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-shura",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/shura1.jpg?v=1770049509"
     },
     "9208558878888": {
