@@ -278,7 +278,7 @@
       "url": "https://berzerk.com.br/products/oversized-lettering-verde",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "M, G, GG, XG",
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/a3b2658a-9456-49f2-97c9-e9b42860b4e7.png?v=1794424624"
     },
     "15542961045672": {
@@ -925,8 +925,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-1979",
       "preco": "69.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/old1.jpg_2.jpg?v=1793494366"
     },
     "15466783899816": {
@@ -1051,8 +1051,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/camiseta-oversized-berzerk-zeus",
       "preco": "54.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/zeus1_jpg.jpg?v=1793503000"
     },
     "9543993458856": {
@@ -1069,8 +1069,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-kensei",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/kensei1_jpg.jpg?v=1793511942"
     },
     "9625375375528": {
@@ -1079,7 +1079,7 @@
       "url": "https://berzerk.com.br/products/oversized-lettering-off-white",
       "preco": "54.90",
       "disponivel": true,
-      "tamanhos": "GG",
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/CAMISETA-OVERSIZED-BERZERK-OFFWHITE-NOVA_-_FRENTE_V2.png?v=1791554588"
     },
     "8546875080872": {
@@ -1177,8 +1177,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-japonese-culture",
       "preco": "54.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/japanese_esquerda.jpg?v=1779202589"
     },
     "15399221657768": {
@@ -1294,8 +1294,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-jpnwar",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1783427120419-cxg8it.jpg?v=1783427148"
     },
     "9321247277224": {
@@ -1403,7 +1403,7 @@
       "url": "https://berzerk.com.br/products/camiseta-oversized-masculina-preta-berzerk-ashura",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "M, G, GG",
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/camiseta_Oversized_masculina_preta_berzerk_-_Ashura.jpg?v=1790952336"
     },
     "9495248240808": {
@@ -1438,8 +1438,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-shura",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/shura1.jpg?v=1770049509"
     },
     "9208558878888": {
@@ -1699,8 +1699,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-fight-club",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/fightclubcostas.jpg?v=1787079692"
     },
     "9524596834472": {
@@ -1871,7 +1871,7 @@
       "url": "https://berzerk.com.br/products/oversized-jiujitsu",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "M, G",
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/JIUC.png?v=1788980177"
     },
     "9466543177896": {
