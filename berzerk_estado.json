@@ -218,6 +218,42 @@
     }
   },
   "geral": {
+    "15519459836072": {
+      "titulo": "Oversized - R&M - Multiverse",
+      "categoria": "oversized",
+      "url": "https://berzerk.com.br/products/oversized-rick-and-morty-multiverse",
+      "preco": "59.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Camiseta_oversized_preta_Rick_and_Morty_Multiverse_frente_com_letreiro_verde_e_costas_com_a_nave_do_Rick_e_o_multiverso.png?v=1795634580"
+    },
+    "15519700123816": {
+      "titulo": "Oversized - R&M - Portal",
+      "categoria": "oversized",
+      "url": "https://berzerk.com.br/products/oversized-rick-and-morty-portal",
+      "preco": "59.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/2bce3c37-66da-46d5-b3c5-450fa5b5d9cf.png?v=1794589809"
+    },
+    "15519724929192": {
+      "titulo": "Oversized - R&M - Morty",
+      "categoria": "oversized",
+      "url": "https://berzerk.com.br/products/oversized-rick-and-morty-morty",
+      "preco": "59.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/R_MMORTY2_1.png?v=1794832828"
+    },
+    "15519535562920": {
+      "titulo": "Oversized - R&M - Rick",
+      "categoria": "oversized",
+      "url": "https://berzerk.com.br/products/oversized-rick-and-morty-rick",
+      "preco": "59.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Camiseta_oversized_preta_Rick_and_Morty_frente_com_logo_e_costas_com_o_rosto_do_Rick_e_o_nome_em_letreiro_metal.png?v=1795635004"
+    },
     "9477004165288": {
       "titulo": "Oversized - Symbol - Marrom",
       "categoria": "Geral",
@@ -295,8 +331,8 @@
       "categoria": "freaky legacy",
       "url": "https://berzerk.com.br/products/oversized-freaky-season-ganley-2",
       "preco": "79.90",
-      "disponivel": true,
-      "tamanhos": "XG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/41c63390-19b7-4d4d-9eb4-9f8c43b4f56e.jpg?v=1795002132"
     },
     "15490791964840": {
@@ -395,7 +431,7 @@
       "url": "https://berzerk.com.br/products/regata-surpresa",
       "preco": "39.90",
       "disponivel": true,
-      "tamanhos": "P, M, GG, XG, G1, G2",
+      "tamanhos": "P, GG, XG, G1, G2",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1781270111095-3vvmjr.png?v=1781270170"
     },
     "9433118179496": {
@@ -1061,7 +1097,7 @@
       "url": "https://berzerk.com.br/products/oversized-fujin",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "G",
+      "tamanhos": "M, G",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/fuijin.png?v=1788480912"
     },
     "9635586965672": {
