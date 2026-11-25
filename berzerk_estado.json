@@ -1034,7 +1034,7 @@
       "url": "https://berzerk.com.br/products/oversized-cf-explode-frutas",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "M, G, GG",
+      "tamanhos": "M, G",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Explodefrutas.jpg?v=1787143251"
     },
     "9543986184360": {
@@ -1276,8 +1276,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-pizzanova",
       "preco": "54.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "M",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/T-shirtpretoBULKINGSEASON.png?v=1791394509"
     },
     "9615436644520": {
@@ -1637,7 +1637,7 @@
       "url": "https://berzerk.com.br/products/oversized-couple",
       "preco": "54.90",
       "disponivel": true,
-      "tamanhos": "M",
+      "tamanhos": "M, G",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Couple_2b6c5d0c-48dc-4840-b299-fd4543a61da0.jpg?v=1787141966"
     },
     "9539894739112": {
