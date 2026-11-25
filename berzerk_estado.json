@@ -15,7 +15,7 @@
       "url": "https://berzerk.com.br/products/oversized-rux-shogun",
       "preco": "74.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG, XG",
+      "tamanhos": "P, M, G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux8FRENTE.png?v=1788460907"
     },
     "9524572979368": {
@@ -547,8 +547,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-supresa",
       "preco": "39.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1779131826414-hy66id.png?v=1779131835"
     },
     "15439438282920": {
@@ -1709,7 +1709,7 @@
       "url": "https://berzerk.com.br/products/oversized-rux-shogun",
       "preco": "74.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG, XG",
+      "tamanhos": "P, M, G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux8FRENTE.png?v=1788460907"
     },
     "9524577730728": {
