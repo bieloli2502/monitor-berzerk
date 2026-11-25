@@ -1096,8 +1096,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-symbol-infinity",
       "preco": "49.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "G",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/symbol_azul_placid_jpg.jpg?v=1793497448"
     },
     "8840804040872": {
@@ -1177,8 +1177,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-japonese-culture",
       "preco": "54.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "G",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/japanese_esquerda.jpg?v=1779202589"
     },
     "15399221657768": {
@@ -1438,8 +1438,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-shura",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/shura1.jpg?v=1770049509"
     },
     "9208558878888": {
