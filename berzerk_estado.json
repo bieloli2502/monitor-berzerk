@@ -1087,8 +1087,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-olympia",
       "preco": "54.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/OLYMPIACOSTAS.jpg?v=1765049164"
     },
     "9540025221288": {
@@ -1177,8 +1177,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-japonese-culture",
       "preco": "54.90",
-      "disponivel": true,
-      "tamanhos": "G",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/japanese_esquerda.jpg?v=1779202589"
     },
     "15399221657768": {
