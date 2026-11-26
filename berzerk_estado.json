@@ -200,6 +200,42 @@
     }
   },
   "geral": {
+    "15519724929192": {
+      "titulo": "Oversized - R&M - Morty",
+      "categoria": "oversized",
+      "url": "https://berzerk.com.br/products/oversized-rick-and-morty-morty",
+      "preco": "69.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Camiseta_oversized_off_white_Rick_and_Morty_frente_com_logo_e_costas_com_o_rosto_do_Morty_e_o_nome_em_letreiro_verde2.png?v=1795700865"
+    },
+    "15519700123816": {
+      "titulo": "Oversized - R&M - Portal",
+      "categoria": "oversized",
+      "url": "https://berzerk.com.br/products/oversized-rick-and-morty-portal",
+      "preco": "69.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/2bce3c37-66da-46d5-b3c5-450fa5b5d9cf.png?v=1795637106"
+    },
+    "15519535562920": {
+      "titulo": "Oversized - R&M - Rick",
+      "categoria": "oversized",
+      "url": "https://berzerk.com.br/products/oversized-rick-and-morty-rick",
+      "preco": "69.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Camiseta_oversized_preta_Rick_and_Morty_frente_com_logo_e_costas_com_o_rosto_do_Rick_e_o_nome_em_letreiro_metal.png?v=1795637272"
+    },
+    "15519459836072": {
+      "titulo": "Oversized - R&M - Multiverse",
+      "categoria": "oversized",
+      "url": "https://berzerk.com.br/products/oversized-rick-and-morty-multiverse",
+      "preco": "69.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Camiseta_oversized_preta_Rick_and_Morty_Multiverse_frente_com_letreiro_verde_e_costas_com_a_nave_do_Rick_e_o_multiverso.png?v=1795637024"
+    },
     "9477004165288": {
       "titulo": "Oversized - Symbol - Marrom",
       "categoria": "Geral",
