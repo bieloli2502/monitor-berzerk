@@ -1285,8 +1285,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-cheat-death",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "M",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1789135123587-maot3q_1.jpg?v=1790792693"
     },
     "9495057858728": {
