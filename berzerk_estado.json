@@ -502,8 +502,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-supresa",
       "preco": "39.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1779131826414-hy66id.png?v=1779131835"
     },
     "15442076500136": {
@@ -1124,7 +1124,7 @@
       "url": "https://berzerk.com.br/products/oversized-ambigrama",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG",
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1783427217982-rv6hy1.jpg?v=1783427264"
     },
     "9532943106216": {
