@@ -27,15 +27,6 @@
       "tamanhos": "G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux7FRENTE.png?v=1788461061"
     },
-    "9483146494120": {
-      "titulo": "Oversized - Rux - Junkyard strong center",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-builder",
-      "preco": "69.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD25FRENTE.png?v=1786671564"
-    },
     "9483145707688": {
       "titulo": "Oversized - Rux - Chasing Progress",
       "categoria": "RUX",
@@ -54,24 +45,6 @@
       "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux14COSTAS.png?v=1788460589"
     },
-    "9483151507624": {
-      "titulo": "Oversized - Rux - Postmark",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-junkyard",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD27FRENTE.png?v=1786671546"
-    },
-    "9524570095784": {
-      "titulo": "Oversized - Rux - Rino Mask",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-rino-mask",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux6FRENTE.png?v=1788461131"
-    },
     "9524570423464": {
       "titulo": "Oversized - Rux - Samurai Squat",
       "categoria": "RUX",
@@ -81,15 +54,6 @@
       "tamanhos": "M, G, GG, XG, G3",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux5FRENTE.png?v=1788461114"
     },
-    "9483144659112": {
-      "titulo": "Oversized - Rux - Ryu",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-tatsu",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD23COSTAS.png?v=1786671637"
-    },
     "9524577730728": {
       "titulo": "Oversized - Rux - Dragon Viking",
       "categoria": "RUX",
@@ -98,33 +62,6 @@
       "disponivel": false,
       "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux3FRENTE.png?v=1788460949"
-    },
-    "9483144495272": {
-      "titulo": "Oversized - Rux- Dragon Fluor",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-fluordragon",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD22FRENTE.png?v=1786671652"
-    },
-    "9483145347240": {
-      "titulo": "Oversized - Rux - Rhino Grifo",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-quimera",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD29FRENTE_1.png?v=1786671610"
-    },
-    "9524574126248": {
-      "titulo": "Oversized - Rux - CYBERPUNK",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-cyberpunk",
-      "preco": "69.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux1COSTAS_aa4c0ebf-4c6f-4668-ab1c-79f58f597483.png?v=1788527246"
     },
     "9540098359464": {
       "titulo": "Oversized - RUX - Dragon",
@@ -161,6 +98,24 @@
       "disponivel": true,
       "tamanhos": "P, G, GG, G3",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux9FRENTE.png?v=1788460870"
+    },
+    "9473398735016": {
+      "titulo": "Oversized - Rux - Shadow",
+      "categoria": "rux",
+      "url": "https://berzerk.com.br/products/oversized-rux-shadow",
+      "preco": "99.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG, XXG, G3",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/LETTERING1_jpg.jpg?v=1781881177"
+    },
+    "9524576452776": {
+      "titulo": "Oversized - Rux - Japan",
+      "categoria": "RUX",
+      "url": "https://berzerk.com.br/products/oversized-rux-japan",
+      "preco": "119.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG, G3",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux2FRENTE.png?v=1788460978"
     },
     "9567100174504": {
       "titulo": "Calça RUX - Moonstone",
@@ -200,6 +155,24 @@
     }
   },
   "geral": {
+    "9524576452776": {
+      "titulo": "Oversized - Rux - Japan",
+      "categoria": "RUX",
+      "url": "https://berzerk.com.br/products/oversized-rux-japan",
+      "preco": "119.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG, G3",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux2FRENTE.png?v=1788460978"
+    },
+    "9473398735016": {
+      "titulo": "Oversized - Rux - Shadow",
+      "categoria": "rux",
+      "url": "https://berzerk.com.br/products/oversized-rux-shadow",
+      "preco": "99.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG, XXG, G3",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/LETTERING1_jpg.jpg?v=1781881177"
+    },
     "15536541270184": {
       "titulo": "Oversized - Symbol Terra",
       "categoria": "Oversized",
@@ -469,15 +442,6 @@
       "disponivel": true,
       "tamanhos": "P, GG, XG, G1, G2",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1781270111095-3vvmjr.png?v=1781270170"
-    },
-    "9433118179496": {
-      "titulo": "Oversized Rux - Surpresa",
-      "categoria": "Geral",
-      "url": "https://berzerk.com.br/products/oversized-rux-supresa",
-      "preco": "39.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/SURPRESARUX_jpg.jpg?v=1781882238"
     },
     "9553868914856": {
       "titulo": "Cropped Oversized - Surpresa",
@@ -829,15 +793,6 @@
       "disponivel": true,
       "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux13COSTAS.png?v=1788460552"
-    },
-    "9483146494120": {
-      "titulo": "Oversized - Rux - Junkyard strong center",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-builder",
-      "preco": "69.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD25FRENTE.png?v=1786671564"
     },
     "9532937109672": {
       "titulo": "Oversized - Gueixa",
@@ -1352,15 +1307,6 @@
       "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/excuses1.jpg?v=1788531384"
     },
-    "9524574126248": {
-      "titulo": "Oversized - Rux - CYBERPUNK",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-cyberpunk",
-      "preco": "69.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux1COSTAS_aa4c0ebf-4c6f-4668-ab1c-79f58f597483.png?v=1788527246"
-    },
     "9572527669416": {
       "titulo": "Oversized - CF - Off Fruits",
       "categoria": "Geral",
@@ -1496,15 +1442,6 @@
       "tamanhos": "P, M, G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux8FRENTE.png?v=1788460907"
     },
-    "9524577730728": {
-      "titulo": "Oversized - Rux - Dragon Viking",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-dragon-viking",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux3FRENTE.png?v=1788460949"
-    },
     "9524572979368": {
       "titulo": "Oversized - Rux - Sumô",
       "categoria": "RUX",
@@ -1522,15 +1459,6 @@
       "disponivel": true,
       "tamanhos": "P, M, G, GG, XG, G3",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux4FRENTE.png?v=1788461098"
-    },
-    "9524570095784": {
-      "titulo": "Oversized - Rux - Rino Mask",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-rino-mask",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux6FRENTE.png?v=1788461131"
     },
     "8570483376296": {
       "titulo": "Oversized - MYTH",
@@ -1577,15 +1505,6 @@
       "tamanhos": "M, G",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/memori1.jpg?v=1785551201"
     },
-    "9483151507624": {
-      "titulo": "Oversized - Rux - Postmark",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-junkyard",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD27FRENTE.png?v=1786671546"
-    },
     "9483145707688": {
       "titulo": "Oversized - Rux - Chasing Progress",
       "categoria": "RUX",
@@ -1594,33 +1513,6 @@
       "disponivel": true,
       "tamanhos": "G",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/T-shirtazul_JunkyardStrong2026.png?v=1790949551"
-    },
-    "9483145347240": {
-      "titulo": "Oversized - Rux - Rhino Grifo",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-quimera",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD29FRENTE_1.png?v=1786671610"
-    },
-    "9483144659112": {
-      "titulo": "Oversized - Rux - Ryu",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-tatsu",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD23COSTAS.png?v=1786671637"
-    },
-    "9483144495272": {
-      "titulo": "Oversized - Rux- Dragon Fluor",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-fluordragon",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RUXD22FRENTE.png?v=1786671652"
     },
     "9460739866792": {
       "titulo": "Oversized - Punk Pink",
