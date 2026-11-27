@@ -200,6 +200,24 @@
     }
   },
   "geral": {
+    "15616494272680": {
+      "titulo": "Calça Oversized - Moletom Branco",
+      "categoria": "MOLETOM",
+      "url": "https://berzerk.com.br/products/calca-oversized-moletom-branco",
+      "preco": "89.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/dc493f34-93c3-43ee-8985-17a2a5708803.png?v=1795784601"
+    },
+    "9564304441512": {
+      "titulo": "Calça Oversized - Moletom Preto",
+      "categoria": "Geral",
+      "url": "https://berzerk.com.br/products/calca-oversized-moletom-preto",
+      "preco": "89.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/CalcasBerzerkPretascomLogoOval.png?v=1795785304"
+    },
     "9611290378408": {
       "titulo": "Calça Oversized - Moletom Chumbo",
       "categoria": "Geral",
