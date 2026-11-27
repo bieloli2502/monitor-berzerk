@@ -131,8 +131,8 @@
       "categoria": "RUX",
       "url": "https://berzerk.com.br/products/oversized-rux-dragon",
       "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux13COSTAS.png?v=1788460552"
     },
     "9567101157544": {
@@ -745,8 +745,8 @@
       "categoria": "RUX",
       "url": "https://berzerk.com.br/products/oversized-rux-dragon",
       "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux13COSTAS.png?v=1788460552"
     },
     "9483146494120": {
@@ -1267,8 +1267,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-excuses",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/excuses1.jpg?v=1788531384"
     },
     "9524574126248": {
@@ -1708,8 +1708,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/camiseta-oversized-berzerk-roxa-dragon-biceps",
       "preco": "54.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/CAMISETA-OVERSIZED-BERZERK-COR-DRAGAO_ROXO_C_ESTAMPA_DRAON_BICEPS.png?v=1791555106"
     },
     "9270014804136": {
