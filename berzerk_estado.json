@@ -200,6 +200,33 @@
     }
   },
   "geral": {
+    "9611290378408": {
+      "titulo": "Calça Oversized - Moletom Chumbo",
+      "categoria": "Geral",
+      "url": "https://berzerk.com.br/products/calca-oversized-moletom-chumbo",
+      "preco": "89.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/CALCACINZA.png?v=1795537902"
+    },
+    "9564304441512": {
+      "titulo": "Calça Oversized - Moletom Preto",
+      "categoria": "Geral",
+      "url": "https://berzerk.com.br/products/calca-oversized-moletom-preto",
+      "preco": "89.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/calcapreta_jpg.jpg?v=1786458716"
+    },
+    "9564331147432": {
+      "titulo": "Calça Oversized - Moletom Marinho",
+      "categoria": "Geral",
+      "url": "https://berzerk.com.br/products/calca-oversized-moletom-marinho",
+      "preco": "89.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/WhatsAppImage2026-11-23at15.36.31.jpg?v=1795459142"
+    },
     "15519724929192": {
       "titulo": "Oversized - R&M - Morty",
       "categoria": "oversized",
@@ -343,24 +370,6 @@
       "disponivel": true,
       "tamanhos": "P, M, G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/MARROMF.png?v=1794424151"
-    },
-    "9564292776104": {
-      "titulo": "Calça Oversized - Moletom Marrom",
-      "categoria": "Geral",
-      "url": "https://berzerk.com.br/products/calca-oversized-moletom-marrom",
-      "preco": "89.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/calcamarrom_jpg.jpg?v=1786458620"
-    },
-    "9564298838184": {
-      "titulo": "Calça Oversized -  Moletom Off White",
-      "categoria": "Geral",
-      "url": "https://berzerk.com.br/products/calca-oversized-moletom-off-white",
-      "preco": "89.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/calcaoff_jpg.jpg?v=1786458670"
     },
     "9432972427432": {
       "titulo": "Oversized - Atlas",
