@@ -200,6 +200,69 @@
     }
   },
   "geral": {
+    "15536541270184": {
+      "titulo": "Oversized - Symbol Terra",
+      "categoria": "Oversized",
+      "url": "https://berzerk.com.br/products/oversized-symbol-terra",
+      "preco": "59.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/587842b3-52be-410b-98be-afc5df901037.png?v=1794919042"
+    },
+    "15439438282920": {
+      "titulo": "Oversized - HK - Car",
+      "categoria": "Geral",
+      "url": "https://berzerk.com.br/products/oversized-hk-car",
+      "preco": "69.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/43048f1e-c403-481a-b2e6-00e7707544be.png?v=1794309974"
+    },
+    "15439436349608": {
+      "titulo": "Oversized - PPG - Townsville Trio",
+      "categoria": "docinho",
+      "url": "https://berzerk.com.br/products/oversized-ppg-townsville-trio",
+      "preco": "69.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/PPGTRIO1_jpg.jpg?v=1793838761"
+    },
+    "9554102681768": {
+      "titulo": "Oversized - Death",
+      "categoria": "oversizeds",
+      "url": "https://berzerk.com.br/products/oversized-death",
+      "preco": "59.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/skull_atualizado.jpg?v=1785940585"
+    },
+    "9432192975016": {
+      "titulo": "Oversized - Hello Kitty - Kanji (Vermelho)",
+      "categoria": "Oversized - Kitty",
+      "url": "https://berzerk.com.br/products/oversized-hello-kitty-rubro",
+      "preco": "99.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/HelloKitty-CamisaVermelhafRENTE.png?v=1778174392"
+    },
+    "15490889613480": {
+      "titulo": "Oversized Freaky Season - Eternal",
+      "categoria": "freaky legacy",
+      "url": "https://berzerk.com.br/products/oversized-freaky-season-ganley-2",
+      "preco": "79.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/41c63390-19b7-4d4d-9eb4-9f8c43b4f56e.jpg?v=1795002132"
+    },
+    "15490791964840": {
+      "titulo": "Oversized Freaky Season - Forever",
+      "categoria": "Oversized",
+      "url": "https://berzerk.com.br/products/oversized-freaky-season-ganley-1",
+      "preco": "79.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/ganley1.jpg?v=1795002182"
+    },
     "15616494272680": {
       "titulo": "Calça Oversized - Moletom Branco",
       "categoria": "MOLETOM",
@@ -520,8 +583,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-supresa",
       "preco": "39.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1779131826414-hy66id.png?v=1779131835"
     },
     "15442076500136": {
