@@ -565,8 +565,8 @@
       "categoria": "Oversized - Kitty",
       "url": "https://berzerk.com.br/products/oversized-stay-rock",
       "preco": "69.90",
-      "disponivel": true,
-      "tamanhos": "XG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/HelloKitty_StayRock_Costas_1.png?v=1784038544"
     },
     "9433113886888": {
@@ -628,8 +628,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-endless-summer",
       "preco": "49.90",
-      "disponivel": true,
-      "tamanhos": "G",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Endelss_Costas.png?v=1780427915"
     },
     "9472661717160": {
@@ -871,8 +871,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-fujin",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "M, G",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/fuijin.png?v=1788480912"
     },
     "9635586965672": {
@@ -1303,8 +1303,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/oversized-cf-akuma",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "M",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/ComamfrutasMockup.jpg?v=1787142408"
     },
     "9545114419368": {
@@ -1330,8 +1330,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-odds-preto",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "M, G",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/oddscostas.jpg?v=1787141514"
     },
     "9533049209000": {
@@ -1582,8 +1582,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-vape-proteic",
       "preco": "49.90",
-      "disponivel": true,
-      "tamanhos": "G",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Vape_costas.png?v=1779372834"
     },
     "9408663552168": {
