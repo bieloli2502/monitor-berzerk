@@ -1133,7 +1133,7 @@
       "url": "https://berzerk.com.br/products/oversized-shura",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG, XG",
+      "tamanhos": "M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/shura1.jpg?v=1770049509"
     },
     "9208558878888": {
@@ -1447,8 +1447,8 @@
       "categoria": "Poliamida Tech",
       "url": "https://berzerk.com.br/products/poliamida-tech-running-preta-lettering",
       "preco": "54.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "M",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/lettering_2518a541-66f9-4107-aa98-52ba0a9af6d8.png?v=1788198747"
     },
     "9495165993128": {
