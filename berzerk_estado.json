@@ -36,15 +36,6 @@
       "tamanhos": "G",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/T-shirtazul_JunkyardStrong2026.png?v=1790949551"
     },
-    "9540117266600": {
-      "titulo": "Oversized - Rux - Warrior",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-warrior",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux14COSTAS.png?v=1788460589"
-    },
     "9524570423464": {
       "titulo": "Oversized - Rux - Samurai Squat",
       "categoria": "RUX",
@@ -53,15 +44,6 @@
       "disponivel": true,
       "tamanhos": "M, G, GG, XG, G3",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux5FRENTE.png?v=1788461114"
-    },
-    "9524577730728": {
-      "titulo": "Oversized - Rux - Dragon Viking",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-dragon-viking",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux3FRENTE.png?v=1788460949"
     },
     "9540098359464": {
       "titulo": "Oversized - RUX - Dragon",
@@ -126,24 +108,6 @@
       "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1786666703525-n9e6bc.jpg?v=1786666668"
     },
-    "9567090016424": {
-      "titulo": "Calça RUX - Military",
-      "categoria": "Geral",
-      "url": "https://berzerk.com.br/products/calca-rux-military",
-      "preco": "119.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1786665458229-p1lyv6.jpg?v=1786665432"
-    },
-    "9567099060392": {
-      "titulo": "Calça RUX - Blue",
-      "categoria": "Geral",
-      "url": "https://berzerk.com.br/products/calca-rux-blue",
-      "preco": "119.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1786666565688-strejz.jpg?v=1786666538"
-    },
     "9603191472296": {
       "titulo": "Calça RUX - Phantom",
       "categoria": "Geral",
@@ -155,6 +119,15 @@
     }
   },
   "geral": {
+    "15457108099240": {
+      "titulo": "Oversized -  Rux - Forever",
+      "categoria": "RUX",
+      "url": "https://berzerk.com.br/products/oversized-rux-forever",
+      "preco": "89.90",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG, G3",
+      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/3ce4b394-ae26-43d6-b06c-034b4c5814e7.jpg?v=1795795893"
+    },
     "9524576452776": {
       "titulo": "Oversized - Rux - Japan",
       "categoria": "RUX",
@@ -505,24 +478,6 @@
       "disponivel": true,
       "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1786666703525-n9e6bc.jpg?v=1786666668"
-    },
-    "9567099060392": {
-      "titulo": "Calça RUX - Blue",
-      "categoria": "Geral",
-      "url": "https://berzerk.com.br/products/calca-rux-blue",
-      "preco": "119.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1786666565688-strejz.jpg?v=1786666538"
-    },
-    "9567090016424": {
-      "titulo": "Calça RUX - Military",
-      "categoria": "Geral",
-      "url": "https://berzerk.com.br/products/calca-rux-military",
-      "preco": "119.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1786665458229-p1lyv6.jpg?v=1786665432"
     },
     "9540023550120": {
       "titulo": "Oversized - Symbol - Cabernet",
@@ -1090,15 +1045,6 @@
       "disponivel": false,
       "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/1783534119185-c24nhf.jpg?v=1783534142"
-    },
-    "9540117266600": {
-      "titulo": "Oversized - Rux - Warrior",
-      "categoria": "RUX",
-      "url": "https://berzerk.com.br/products/oversized-rux-warrior",
-      "preco": "74.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
-      "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux14COSTAS.png?v=1788460589"
     },
     "9532932096168": {
       "titulo": "Oversized - Loucos de pré",
