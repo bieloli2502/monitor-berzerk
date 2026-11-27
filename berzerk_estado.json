@@ -50,8 +50,8 @@
       "categoria": "RUX",
       "url": "https://berzerk.com.br/products/oversized-rux-dragon",
       "preco": "74.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux13COSTAS.png?v=1788460552"
     },
     "9567101157544": {
@@ -754,8 +754,8 @@
       "categoria": "RUX",
       "url": "https://berzerk.com.br/products/oversized-rux-dragon",
       "preco": "74.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Rux13COSTAS.png?v=1788460552"
     },
     "9532937109672": {
@@ -961,8 +961,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-stronger",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/RELENTLESSC.png?v=1794918810"
     },
     "9540021551272": {
@@ -1258,8 +1258,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-excuses",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/excuses1.jpg?v=1788531384"
     },
     "9572527669416": {
@@ -1385,7 +1385,7 @@
       "url": "https://berzerk.com.br/products/oversized-fight-club",
       "preco": "59.90",
       "disponivel": true,
-      "tamanhos": "M, G, GG, XG",
+      "tamanhos": "M, G, GG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/fightclubcostas.jpg?v=1787079692"
     },
     "9524596834472": {
@@ -1519,8 +1519,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-mecha-viking",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "M",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/MECHA_1_1832acb3-f8fa-428d-98f5-7d74409ea19b.png?v=1785353387"
     },
     "9506534097064": {
@@ -1636,8 +1636,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/camiseta-oversized-berzerk-roxa-dragon-biceps",
       "preco": "54.90",
-      "disponivel": true,
-      "tamanhos": "GG",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/CAMISETA-OVERSIZED-BERZERK-COR-DRAGAO_ROXO_C_ESTAMPA_DRAON_BICEPS.png?v=1791555106"
     },
     "9270014804136": {
