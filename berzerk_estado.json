@@ -853,8 +853,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-byakko",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/byakkocostas.jpg?v=1787141750"
     },
     "8826165526696": {
@@ -916,8 +916,8 @@
       "categoria": "oversizeds",
       "url": "https://berzerk.com.br/products/camiseta-oversized-berzerk-carboctopus-preta",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Camiseta_Oversized_Berzerk_-_Carboctopus_-_Preta.jpg?v=1789001433"
     },
     "9603191472296": {
@@ -1375,8 +1375,8 @@
       "categoria": "Oversized",
       "url": "https://berzerk.com.br/products/oversized-hayna",
       "preco": "59.90",
-      "disponivel": false,
-      "tamanhos": "Esgotado",
+      "disponivel": true,
+      "tamanhos": "P, M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/Hayna_1_5f73814a-9a9d-4cc3-9b86-86c10d1eda38.jpg?v=1788526832"
     },
     "9524623671464": {
