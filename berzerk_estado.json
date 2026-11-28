@@ -646,8 +646,8 @@
       "categoria": "Geral",
       "url": "https://berzerk.com.br/products/oversized-raijan",
       "preco": "59.90",
-      "disponivel": true,
-      "tamanhos": "G",
+      "disponivel": false,
+      "tamanhos": "Esgotado",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/WhatsAppImage2026-10-05at13.47.51.jpg?v=1791219172"
     },
     "15471968223400": {
@@ -782,7 +782,7 @@
       "url": "https://berzerk.com.br/products/oversized-1979",
       "preco": "69.90",
       "disponivel": true,
-      "tamanhos": "P, M, G, GG, XG",
+      "tamanhos": "M, G, GG, XG",
       "imagem": "https://cdn.shopify.com/s/files/1/0653/3975/2616/files/old1.jpg_2.jpg?v=1793494366"
     },
     "15426068873384": {
